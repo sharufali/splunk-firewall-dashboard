@@ -16,3 +16,6 @@ This is a custom Splunk XML dashboard that visualizes firewall traffic.
 2. In Splunk, go to **Dashboards → Create New Dashboard → Source Mode**.
 3. Paste the XML and save.
 4. The dashboard will now show real-time firewall monitoring metrics.
+
+## Preview
+![Dashboard Screenshot](dashboard.png)
