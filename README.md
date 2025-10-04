@@ -2,6 +2,9 @@
 
 This is a custom Splunk XML dashboard that visualizes firewall traffic.
 
+## Preview
+![Dashboard Screenshot](dashboard.png)
+
 ## Features
 - Blocked vs Allowed Connections
 - External Source and Destination IPs
@@ -17,5 +20,4 @@ This is a custom Splunk XML dashboard that visualizes firewall traffic.
 3. Paste the XML and save.
 4. The dashboard will now show real-time firewall monitoring metrics.
 
-## Preview
-![Dashboard Screenshot](dashboard.png)
+
